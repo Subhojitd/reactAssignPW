@@ -3,6 +3,7 @@ import Person from "./components/Person";
 import Button from "./components/Button";
 import Header from "./components/Header";
 import List from "./components/List";
+import Counter from "./components/Counter";
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
       <Person name="Subhajit" age="21" />
       <Button text="Press Me !" onClick={handleClick} />
       <List items ={listItems} />
+      <Counter/>
     </>
   );
 }
