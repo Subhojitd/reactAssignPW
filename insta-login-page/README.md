@@ -1,6 +1,9 @@
 # Preview 
 
-![Screenshot](screenshot.png)  ![Screenshot](screenshot2.png)
+<div style="display: flex; flex-direction: row;">
+  <img src="screenshot.png" alt="Image 1" width="40%" />
+  <img src="screenshot2.png" alt="Image 2" width="40%" />
+</div>
 
 
 
