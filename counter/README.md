@@ -43,6 +43,8 @@ Before you begin, ensure you have the following installed on your system:
 
     npm run dev
 
+Now go to your brower to see the output. 
+
 
 
 
